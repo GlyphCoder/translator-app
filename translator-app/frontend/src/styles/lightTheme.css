@@ -1,0 +1,8 @@
+.light-theme {
+    --primary-color: #4a6fa5;
+    --secondary-color: #6b8cae;
+    --text-color: #333;
+    --bg-color: #f5f7fa;
+    --card-bg: rgba(255, 255, 255, 0.8);
+    --shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}

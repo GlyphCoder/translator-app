@@ -1,0 +1,20 @@
+.dark-theme {
+    --primary-color: #6b8cae;
+    --secondary-color: #8da9c4;
+    --text-color: #f0f0f0;
+    --bg-color: #1a1a2e;
+    --card-bg: rgba(26, 26, 46, 0.8);
+    --shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.dark-theme textarea,
+.dark-theme .language-selector select {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #f0f0f0;
+    border-color: #444;
+}
+
+.dark-theme .translated-text {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: #444;
+}
